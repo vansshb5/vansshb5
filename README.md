@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vanssh bhargav
+- 👋 Hi, I’m Vanssh Bhargav
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 📖 currently pursuing my batchlor degree in computer science and engineering
+- 📖 currently pursuing my bachlor degree in computer science and engineering
 - ⚡ Fun fact: ..
 
 <!---
