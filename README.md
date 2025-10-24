@@ -21,13 +21,16 @@
 </p>
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vansshb5&show_icons=true&theme=radical" alt="vansshb5 GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansshb5&theme=radical" alt="vansshb5 GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansshb5&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+##  Holopin Board
+
+[![@vansshb5's Holopin board](https://holopin.me/vansshb5)](https://holopin.io/@vansshb5)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanssh-bhargav-5bb51a319/)
