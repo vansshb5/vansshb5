@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 📖 currently pursuing my bachlor degree in computer science and engineering
-## 🚀 Skills
+##  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -28,6 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansshb5&theme=radical" alt="vansshb5 GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansshb5&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 ##  Holopin Board
 
 [![@vansshb5's Holopin board](https://holopin.me/vansshb5)](https://holopin.io/@vansshb5)
