@@ -17,6 +17,19 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansshb5&show_icons=true&theme=radical" alt="vansshb5 GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansshb5&theme=radical" alt="vansshb5 GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansshb5&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](in/vanssh-bhargav-5bb51a319)
+
+
+
 <!---
 vansshb5/vansshb5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
